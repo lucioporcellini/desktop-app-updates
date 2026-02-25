@@ -1,12 +1,12 @@
 {
   "frontend": {
     "version": "1.0.0",
-    "url": "https://github.com/lucioporcellini/desktop-app-updates/releases/download/v1.0.0/frontend-mac-1.0.0.zip",
+    "asset": "frontend-mac-1.0.0.zip",
     "sha256": "4f4eff032f2088f5c5bceeb5a04bb0d3b959c30f9729fc5c3cb6303a0fe1a1d3"
   },
   "server": {
     "version": "1.0.0",
-    "url": "https://github.com/lucioporcellini/desktop-app-updates/releases/download/v1.0.0/server-mac-1.0.0.zip",
+    "asset": "server-mac-1.0.0.zip",
     "sha256": "4f5f72bf901aee5508de3fc5421d30798f3dc82f76e4b9255708f7f08e51eae8"
   }
 }
