@@ -1,8 +1,8 @@
 {
   "frontend": {
-    "version": "1.2.1",
-    "asset": "frontend-mac-1.2.1.zip",
-    "sha256": "e96fb9c6470b0c3acb0cee0424ad84cdcc45c2259df2daf3015bcdb31286b4ca"
+    "version": "1.2.2",
+    "asset": "frontend-mac-1.2.2.zip",
+    "sha256": "10f2ba827ecd828ad807b1aebedca45110e9a43c94790ed79b2c536c208e7d6e"
   },
   "server": {
     "version": "1.1.6",
