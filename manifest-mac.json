@@ -5,8 +5,8 @@
     "sha256": "10f2ba827ecd828ad807b1aebedca45110e9a43c94790ed79b2c536c208e7d6e"
   },
   "server": {
-    "version": "1.1.6",
-    "asset": "server-mac-1.1.6.zip",
-    "sha256": "c4932222a8b4002afc11157792c862498cb69b198bea00238d4d667c51a5ee55"
+    "version": "1.1.7",
+    "asset": "server-mac-1.1.7.zip",
+    "sha256": "f525deee441846c63a7326444b3f569f9dc5eaa551600600c2a0a0f6982961dc"
   }
 }
