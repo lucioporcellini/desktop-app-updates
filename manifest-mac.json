@@ -1,12 +1,12 @@
 {
   "frontend": {
-    "version": "1.3.1",
-    "asset": "frontend-mac-1.3.1.zip",
-    "sha256": "2c5a4f1a4f18a6b925f6a6546ef82afacccd7942279b309a08e01e32cde494ee"
+    "version": "1.3.2",
+    "asset": "frontend-mac-1.3.2.zip",
+    "sha256": "4f061ea68dd27611a98a10f7a567d7e3c45d16e0371e7c939b04dcb19f9af7fb"
   },
   "server": {
-    "version": "1.3.0",
-    "asset": "server-mac-1.3.0.zip",
-    "sha256": "a6034db9f5f41694e982cc12d6dde1e10d760c0fecd5983989ec3ea806ccc931"
+    "version": "1.3.1",
+    "asset": "server-mac-1.3.1.zip",
+    "sha256": "e38343a761b829e60d3ed277f572437c8862b81559a5f56602de4f259f7acd8f"
   }
 }
